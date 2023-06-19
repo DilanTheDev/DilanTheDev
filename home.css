@@ -1,0 +1,18 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-text {
+  top: 7px;
+  right: 29px;
+  width: 1092px;
+  height: 916px;
+  position: absolute;
+  font-size: 10em;
+  font-style: normal;
+  font-weight: 700;
+}
