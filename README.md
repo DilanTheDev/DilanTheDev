@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 * 🌍  I'm based in England
-* 🖥️  See my portfolio at [dilan.dev](http://dilan.dev)
+* 🖥️  See my portfolio at [dilan.me](http://dilan.me)
 * ✉️  You can contact me at [dilanplayz@yahoo.com](mailto:dilanplayz@yahoo.com)
 
 <a href="https://www.github.com/dilanthedev" target="_blank" rel="noreferrer"><img
