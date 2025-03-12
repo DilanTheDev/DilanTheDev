@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dilanplayz
 ==================================================================================================================================
 
-* 🌍  I'm based in London
+* 🌍  I'm based in England
 * 🖥️  See my portfolio at [dilan.dev](http://dilan.dev)
 * ✉️  You can contact me at [dilanplayz@yahoo.com](mailto:dilanplayz@yahoo.com)
 
